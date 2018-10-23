@@ -28,7 +28,8 @@ export default {
         { name: '日本語', path: 'https://ja.nuxtjs.org' + this.$route.path, target: '_blank' },
         { name: '한국어', path: 'https://ko.nuxtjs.org' + this.$route.path, target: '_blank' },
         { name: 'Русский', path: 'https://ru.nuxtjs.org' + this.$route.path, target: '_blank' },
-        { name: 'Indonesian', path: 'https://id.nuxtjs.org' + this.$route.path, target: '_blank' }
+        { name: 'Indonesian', path: 'https://id.nuxtjs.org' + this.$route.path, target: '_blank' },
+        { name: 'Português (Brasil)', path: 'https://pt-br.nuxtjs.org' + this.$route.path, target: '_blank' }
       ]
     }
   },
